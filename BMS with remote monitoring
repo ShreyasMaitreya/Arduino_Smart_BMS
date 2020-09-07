@@ -1,6 +1,6 @@
 #include <Scheduler.h> //This is a custom library, download from https://github.com/mikaelpatel/Arduino-Scheduler#:~:text=Install,Arduino%20IDE%20File>Examples%20menu. 
 #include<math.h>
-#include<ThingSpeak.h>
+#include<ThingSpeak.h> //Download this from library manager
 #include<WiFi.h>
 #include<WiFiUdp.h>
 #include<SPI.h>
